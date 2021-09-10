@@ -29,11 +29,23 @@ body {
 
 .cardBody {
     font-family: 'Urbanist', sans-serif;
+    background-color: white;
     text-align: center;
     font-weight: 200;
-    font-size: 20px;
-    margin-top: 0px;
+    font-size: 16px;
+    padding: 50px;
+    margin-top: -4px;
     border: 0.5px solid black;
     width: fit-content;
     height: fit-content;
+}
+
+.details {
+    background-color: rgba(88, 101, 104, 0.26);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
 }
