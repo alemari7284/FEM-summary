@@ -79,7 +79,7 @@ a {
     width: 100%;
     background-color: blue;
     color: white;
-    box-shadow: 5px 10px rgba(88, 101, 104, 0.76);
+    box-shadow: 5px 10px 20px rgba(88, 101, 104, 0.76);
 }
 
 .cancel {
@@ -88,7 +88,7 @@ a {
     font-weight: bold;
     font-size: 20px;
     padding: 20px;
-    margin: 20px auto 10px auto;
+    margin: 30px auto 10px auto;
     border: 0px;
     display: block;
     width: 100%;
